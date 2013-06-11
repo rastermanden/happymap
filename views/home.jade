@@ -1,0 +1,30 @@
+extends layout
+
+link(rel='stylesheet', href='/stylesheets/style.css')
+
+block content
+
+  #wrapper
+
+    #display
+        #login
+            form.form-horizontal(method='post')
+                div.control-group
+                    label.control-label(for="username") Name
+                    div.controls
+                        input(id='name', type='text', name='username', placeholder='John Doe')
+
+                div.control-group
+                    label.control-label(for="Latitude") Latitude
+                    div.controls
+                        input(id='Latitude', type='text', name='Latitude', placeholder='Latitude', value='')
+                div.control-group
+                    label.control-label(for="Longitude") Longitude
+                    div.controls
+                        input(id='Longitude', type='text', name='Longitude', placeholder='Longitude', value='')
+                div.control-group
+                    div.controls
+                        button.btn.btn-primary(type='submit') Submit your happines
+
+                script.(    )
+                  getLocationConstant()
