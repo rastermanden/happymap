@@ -1,7 +1,7 @@
 {
   "name": "happymap",
-  "subdomain":"happymap",
-  "version": "0.0.1",
+  "subdomain": "happymap",
+  "version": "0.0.1-2",
   "private": true,
   "scripts": {
     "start": "node app.js"
@@ -9,6 +9,9 @@
   "dependencies": {
     "express": "3.2.6",
     "jade": "*",
-    "cartodb":"latest"
+    "cartodb": "latest"
+  },
+  "engines": {
+    "node": "0.8.x"
   }
 }
