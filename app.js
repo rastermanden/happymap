@@ -32,6 +32,7 @@ if ('development' == app.get('env')) {
 app.get('/', happymap.home);
 app.post('/', happymap.home_post_handler);
 
+app.get('/map', happymap.map);
 
 http.createServer(app).listen(app.get('port'), function(){
   console.log('Express server listening on port ' + app.get('port'));
