@@ -14,10 +14,6 @@ block content
                     div.controls
                         input(id='name', type='text', name='username', placeholder='John Doe')
                 div.control-group
-                    label.control-label(for="rating") happy rating
-                    div.controls
-                        input(id='rating', type='text', name='rating', placeholder='your rating 1-10')
-                div.control-group
                     div.controls
                         input(id='Latitude', type='hidden', name='Latitude', placeholder='Latitude', value='')
                 div.control-group
@@ -25,9 +21,9 @@ block content
                         input(id='Longitude', type='hidden', name='Longitude', placeholder='Longitude', value='')
                 div.control-group
                      div.controls
-                         button.btn.btn-primary(type='submit', name=happy, value='1' ) Submit your happines
+                         button.btn.btn-primary(type='submit', id='rating', name='rating', value='1' ) Submit your happines
                 div.control-group
                      div.controls
-                         button.btn.btn-primary(type='submit', name=happy, value='0' ) Submit your happines
+                         button.btn.btn-primary(type='submit', id='rating', name='rating', value='0' ) Submit your happines
                 script.(    )
                   getLocationConstant()

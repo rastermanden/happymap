@@ -41,6 +41,7 @@ exports.home_post_handler = function(req, res) {
     var lat = parseFloat(req.body.Latitude);
     console.log(rating)
     insert(lon,lat,username,rating);
+	console.log("rating: "+rating);
 
     // redirect the user to homepage
     res.redirect('/map');
