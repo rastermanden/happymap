@@ -2,10 +2,9 @@ extends layout
 
 link(rel='stylesheet', href='/stylesheets/style.css')
 
-
 block content
 
-  #wrapper.container-fluid
+  #wrapper
 
     #display
         #login
@@ -13,22 +12,23 @@ block content
                 div.control-group
                     label.control-label(for="username") Your  first Name
                     div.controls
-                        input(id='name', type='text', name='username', placeholder='John Does')
+                        input(id='name', type='text', name='username', placeholder='John Doe')
                 div.control-group
                     label.control-label(for="rating") happy rating
                     div.controls
                         input(id='rating', type='text', name='rating', placeholder='your rating 1-10')
                 div.control-group
-                    label.control-label(for="Latitude") Latitude
                     div.controls
-                        input(id='Latitude', type='text', name='Latitude', placeholder='Latitude', value='')
-                div.control-group
-                    label.control-label(for="Longitude") Longitude
-                    div.controls
-                        input(id='Longitude', type='text', name='Longitude', placeholder='Longitude', value='')
+                        input(id='Latitude', type='hidden', name='Latitude', placeholder='Latitude', value='')
                 div.control-group
                     div.controls
-                        button.btn.btn-primary(type='submit') Submit your happines
-
+                        input(id='Longitude', type='hidden', name='Longitude', placeholder='Longitude', value='')
+                div.control-group
+                     div.controls
+                         button.btn.btn-primary(type='submit', name=happy, value='1' ) Submit your happines
+                div.control-group
+                     div.controls
+                         button.btn.btn-primary(type='submit', name=happy, value='0' ) Submit your happines
+						 
                 script.(    )
                   getLocationConstant()
