@@ -2,57 +2,101 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/map.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/map.jade" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/happymap.js" afterPath="$PROJECT_DIR$/routes/happymap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/home.jade" afterPath="$PROJECT_DIR$/views/home.jade" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="happymap.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371125640181" ignored="false" />
+    <file path="/Dummy.txt" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1373658282720" ignored="false" />
     <file path="/package.json" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1370978186616" ignored="false" />
-    <file path="/home.jade" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371148315143" ignored="false" />
-    <file path="$PROJECT_DIR$/../irwa/main/views.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371019515289" ignored="false" />
-    <file path="/views.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371019512305" ignored="false" />
+    <file path="/home.jade" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372109486887" ignored="false" />
+    <file path="$PROJECT_DIR$/../irwa/main/views.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1373023358149" ignored="false" />
+    <file path="/views.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1373012602077" ignored="false" />
     <file path="$PROJECT_DIR$/../irwa/templates/admin/admin_base.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371032483043" ignored="false" />
     <file path="$PROJECT_DIR$/../irwa/templates/admin/user.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371032483043" ignored="false" />
     <file path="/user.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371021937975" ignored="false" />
     <file path="$PROJECT_DIR$/../irwa/templates/changepassword.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371032483043" ignored="false" />
     <file path="$PROJECT_DIR$/../irwa/templates/dropout.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371032483043" ignored="false" />
     <file path="/dropout.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371023642285" ignored="false" />
-    <file path="$PROJECT_DIR$/../irwa/templates/operation.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371032483043" ignored="false" />
-    <file path="/operation.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371024724810" ignored="false" />
-    <file path="$PROJECT_DIR$/../irwa/settings.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371041828356" ignored="false" />
-    <file path="$PROJECT_DIR$/../irwa/local_settings.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371028128052" ignored="false" />
-    <file path="$PROJECT_DIR$/../irwa/.gitignore" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371041048449" ignored="false" />
-    <file path="/.gitignore" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371040959340" ignored="false" />
-    <file path="/local_settings.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371028104107" ignored="false" />
-    <file path="$PROJECT_DIR$/../irwa/templates/patient.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371032483043" ignored="false" />
-    <file path="/patient.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371029414373" ignored="false" />
-    <file path="$PROJECT_DIR$/../irwa/templates/postoperation1.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371032483043" ignored="false" />
-    <file path="/postoperation1.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371029640500" ignored="false" />
-    <file path="$PROJECT_DIR$/../irwa/templates/postoperation2.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371032483043" ignored="false" />
-    <file path="/postoperation2.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371029662935" ignored="false" />
-    <file path="$PROJECT_DIR$/../irwa/templates/preoperation.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371032483043" ignored="false" />
+    <file path="$PROJECT_DIR$/../irwa/templates/operation.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372941602712" ignored="false" />
+    <file path="/operation.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372673415759" ignored="false" />
+    <file path="$PROJECT_DIR$/../irwa/settings.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371729092869" ignored="false" />
+    <file path="$PROJECT_DIR$/../irwa/local_settings.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372363995527" ignored="false" />
+    <file path="$PROJECT_DIR$/../irwa/.gitignore" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372337522042" ignored="false" />
+    <file path="/.gitignore" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371733792817" ignored="false" />
+    <file path="/local_settings.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372363994800" ignored="false" />
+    <file path="$PROJECT_DIR$/../irwa/templates/patient.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372168571946" ignored="false" />
+    <file path="/patient.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371589145903" ignored="false" />
+    <file path="$PROJECT_DIR$/../irwa/templates/postoperation1.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1373023358149" ignored="false" />
+    <file path="/postoperation1.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1373012789613" ignored="false" />
+    <file path="$PROJECT_DIR$/../irwa/templates/postoperation2.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1373023358149" ignored="false" />
+    <file path="/postoperation2.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1373012805781" ignored="false" />
+    <file path="$PROJECT_DIR$/../irwa/templates/preoperation.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372941602712" ignored="false" />
     <file path="$PROJECT_DIR$/../irwa/templates/revision.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371032483043" ignored="false" />
     <file path="/revision.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371030347080" ignored="false" />
     <file path="$PROJECT_DIR$/../irwa/templates/statistics.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371032483043" ignored="false" />
     <file path="/statistics.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371030519926" ignored="false" />
     <file path="$PROJECT_DIR$/../irwa/templates/welcome.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371032483043" ignored="false" />
     <file path="/welcome.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371030618801" ignored="false" />
-    <file path="$PROJECT_DIR$/../irwa/main/models.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371032483043" ignored="false" />
-    <file path="$PROJECT_DIR$/../irwa/README.md" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371044786981" ignored="false" />
+    <file path="$PROJECT_DIR$/../irwa/main/models.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372941602712" ignored="false" />
+    <file path="$PROJECT_DIR$/../irwa/README.md" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371814145071" ignored="false" />
     <file path="$PROJECT_DIR$/../irwa/templates/contact.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371037855992" ignored="false" />
     <file path="$PROJECT_DIR$/../irwa/apache/django.wsgi" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371032483043" ignored="false" />
-    <file path="$PROJECT_DIR$/../irwa/templates/base.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371032483043" ignored="false" />
-    <file path="/settings.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371041824968" ignored="false" />
+    <file path="$PROJECT_DIR$/../irwa/templates/base.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371812721492" ignored="false" />
+    <file path="/settings.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372665502566" ignored="false" />
     <file path="/README.md" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371065895053" ignored="false" />
-    <file path="$PROJECT_DIR$/../data-behandling/AdresseVask/client.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371148087564" ignored="false" />
-    <file path="/client.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371148087564" ignored="false" />
-    <file path="/happymap.js" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371321702422" ignored="false" />
-    <file path="/app.js" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371321749534" ignored="false" />
+    <file path="/models.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372863582179" ignored="false" />
+    <file path="$PROJECT_DIR$/../irwa/urls.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372941602712" ignored="false" />
+    <file path="/urls.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371731562684" ignored="false" />
+    <file path="/preoperation.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372342006060" ignored="false" />
+    <file path="$USER_HOME$/tmp/djangoimage/images/models.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371633381426" ignored="false" />
+    <file path="$USER_HOME$/tmp/djangoimage/imagetest/settings.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371626360819" ignored="false" />
+    <file path="$USER_HOME$/tmp/djangoimage/imagetest/urls.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371631519064" ignored="false" />
+    <file path="$USER_HOME$/tmp/djangoimage/imagetest/admin.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371623981991" ignored="false" />
+    <file path="/admin.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372867297313" ignored="false" />
+    <file path="$USER_HOME$/tmp/djangoimage/images/admin.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371631576806" ignored="false" />
+    <file path="$USER_HOME$/tmp/djangoimage/images/forms.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371633464600" ignored="false" />
+    <file path="/forms.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372854176714" ignored="false" />
+    <file path="$USER_HOME$/tmp/djangoimage/images/views.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371635095014" ignored="false" />
+    <file path="$USER_HOME$/tmp/djangoimage/images/templates/submit.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371631477071" ignored="false" />
+    <file path="$USER_HOME$/tmp/djangoimage/images/templates/images/submit.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1371634951731" ignored="false" />
+    <file path="$PROJECT_DIR$/../irwa/main/forms.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372941602712" ignored="false" />
+    <file path="$PROJECT_DIR$/../irwa/templates/forms.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372941602712" ignored="false" />
+    <file path="/forms.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372861608447" ignored="false" />
+    <file path="$PROJECT_DIR$/../irwa/static/js/conditionalform.js" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372941602712" ignored="false" />
+    <file path="$PROJECT_DIR$/../irwa/static_collect/js/conditionalform.js" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372668975944" ignored="false" />
+    <file path="/conditionalform.js" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372668938478" ignored="false" />
+    <file path="/style.css" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372109106666" ignored="false" />
+    <file path="$PROJECT_DIR$/../irwa/static/js/form.js" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372168571946" ignored="false" />
+    <file path="$PROJECT_DIR$/../irwa/static/css/crf.css" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372168571946" ignored="false" />
+    <file path="$USER_HOME$/Downloads/pol.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372189175902" ignored="false" />
+    <file path="$USER_HOME$/Downloads/dsf.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372189140812" ignored="false" />
+    <file path="/pol.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372189176354" ignored="false" />
+    <file path="$USER_HOME$/data/politi/pol.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372190509990" ignored="false" />
+    <file path="$USER_HOME$/data/politi/soup.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372195268375" ignored="false" />
+    <file path="/soup.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372194615983" ignored="false" />
+    <file path="/a.dummy" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372337276489" ignored="false" />
+    <file path="$PROJECT_DIR$/../../demo/fkg/djangofkg/fkg/models.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372710836417" ignored="false" />
+    <file path="$PROJECT_DIR$/../../demo/fkg/djangofkg/djangofkg/settings.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372665502566" ignored="false" />
+    <file path="$PROJECT_DIR$/../../demo/fkg/djangofkg/fkg/admin.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372884822048" ignored="false" />
+    <file path="$PROJECT_DIR$/../../demo/fkg/djangofkg/fkg/domains.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372628531104" ignored="false" />
+    <file path="/domains.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372628531104" ignored="false" />
+    <file path="$PROJECT_DIR$/../irwa/static/js/newform.js" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372673521581" ignored="false" />
+    <file path="$USER_HOME$/data/pdk/vectortiles/tilesplit.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372857332180" ignored="false" />
+    <file path="/tilesplit.py" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372760925973" ignored="false" />
+    <file path="$USER_HOME$/data/uni_c/_mapping?" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372942268447" ignored="false" />
+    <file path="$USER_HOME$/data/uni_c/load_institutioner.sh" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372943464979" ignored="false" />
+    <file path="/load_institutioner.sh" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372943247953" ignored="false" />
+    <file path="$PROJECT_DIR$/../septima-search/build.xml" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372944968138" ignored="false" />
+    <file path="/defaultViewTester.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372945574266" ignored="false" />
+    <file path="$PROJECT_DIR$/../septima-search/test/defaultViewTester.html" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372945590016" ignored="false" />
+    <file path="$PROJECT_DIR$/../septima-search/src/js/searchers/institutionSearcher.js" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372969271491" ignored="false" />
+    <file path="/institutionSearcher.js" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372968521486" ignored="false" />
+    <file path="$PROJECT_DIR$/../septima-search/test/js/defaultViewTester.js" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372945748508" ignored="false" />
+    <file path="/defaultViewTester.js" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372945743309" ignored="false" />
+    <file path="$PROJECT_DIR$/../septima-search/src/js/searchers/planSearcher.js" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1372968355789" ignored="false" />
+    <file path="$PROJECT_DIR$/../data-behandling/uni_c/institutioner.sh" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1373007342693" ignored="false" />
+    <file path="/happymap.js" changelist="cc1e4482-d577-4b40-ac0c-4fe301ff44b9" time="1373658335230" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,19 +125,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="4" selection-start="400" selection-end="400" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="21" selection-start="72" selection-end="72" vertical-scroll-proportion="-1.875">
+            <state line="3" column="21" selection-start="72" selection-end="72" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -102,7 +137,23 @@
       <file leaf-file-name="home.jade" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/home.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="102" selection-start="646" selection-end="646" vertical-scroll-proportion="0.0">
+            <state line="31" column="0" selection-start="1285" selection-end="1285" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logo.png" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/images/logo.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="0" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -120,34 +171,37 @@
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="13" selection-start="743" selection-end="743" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="happymap.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="happymap.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/happymap.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="22" selection-start="1353" selection-end="1353" vertical-scroll-proportion="0.8354232">
+            <state line="35" column="48" selection-start="1375" selection-end="1375" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="map.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/map.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="62" column="7" selection-start="0" selection-end="1835" vertical-scroll-proportion="-36.875">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="map.jade" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="map.jade" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/map.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="0" selection-start="2139" selection-end="2139" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cartodbupdate.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cartodbupdate.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -178,10 +232,8 @@
       <list>
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/public/stylesheets/style.css" />
         <option value="$PROJECT_DIR$/views/home.jade" />
-        <option value="$PROJECT_DIR$/views/map.html" />
-        <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/views/map.jade" />
         <option value="$PROJECT_DIR$/routes/happymap.js" />
       </list>
     </option>
@@ -294,6 +346,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="happymap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="happymap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -303,7 +373,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="FullScreen" value="true" />
-    <property name="DefaultHtmlFileTemplate" value="Html5" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <PyConsoleSettings />
+    </option>
+    <option name="myDjangoConsoleState">
+      <PyConsoleSettings />
+    </option>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -406,23 +483,23 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25445706" sideWeight="0.6089613" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17909238" sideWeight="0.57102275" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17909238" sideWeight="0.4275568" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -493,6 +570,13 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/secret.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -519,6 +603,11 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="4" selection-start="400" selection-end="400" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/secret.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -526,23 +615,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="4" selection-start="400" selection-end="400" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/map.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="7" selection-start="0" selection-end="1835" vertical-scroll-proportion="-36.875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="21" selection-start="72" selection-end="72" vertical-scroll-proportion="-1.875">
+        <state line="3" column="21" selection-start="72" selection-end="72" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -554,32 +636,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/home.jade">
+    <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="102" selection-start="646" selection-end="646" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
+    <entry file="file://$PROJECT_DIR$/cartodbupdate.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="13" selection-start="743" selection-end="743" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/home.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="0" selection-start="1285" selection-end="1285" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/happymap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="48" selection-start="1375" selection-end="1375" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/map.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="0" selection-start="2139" selection-end="2139" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/happymap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="22" selection-start="1353" selection-end="1353" vertical-scroll-proportion="0.8354232">
-          <folding />
-        </state>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
       </provider>
     </entry>
   </component>
