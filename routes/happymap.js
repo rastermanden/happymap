@@ -28,7 +28,8 @@ exports.home = function(req, res){
 };
 
 exports.map = function(req, res){
-  res.render('map', { title: 'Happymap' })
+  //res.render('map', { title: 'Happymap' })
+  res.redirect('http://rastermanden.cartodb.com/viz/847b26b0-eb27-11e2-bbbe-5404a6a69006/embed_map?title=false&description=false&search=false&shareable=false&cartodb_logo=false&layer_selector=true&scrollwheel=true&sublayer_options=1&sql=&sw_lat=55.61209886892118&sw_lon=12.01080322265625&ne_lat=55.83252950925928&ne_lon=12.987213134765623');
 
 };
 // handler for form submitted from homepage
