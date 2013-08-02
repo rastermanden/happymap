@@ -1,31 +1,25 @@
 extends layout
 
-link(rel='stylesheet', href='/stylesheets/style.css')
-
 block content
-
   #wrapper
-
     #display
-        #login
-            form.form-horizontal(method='post')
-                div.control-group
-                    label.control-label(for="username") Your  first Name
-                    div.controls
-                        input(id='name', type='text', name='username', placeholder='John Doe')
-                div.control-group
-                    div.controls
-                        input(id='Latitude', type='hidden', name='Latitude', placeholder='Latitude', value='')
-                div.control-group
-                    div.controls
-                        input(id='Longitude', type='hidden', name='Longitude', placeholder='Longitude', value='')
-                div.control-group
-                     div.controls
-                         button.btn.btn-primary(type='submit', id='rating', name='rating', value='1' ) Submit your happines
-                             img(src='/images/happy.svg');
-                div.control-group
-                     div.controls
-                         button.btn.btn-primary(type='submit', id='rating', name='rating', value='0' ) Submit your happines
-                             img(src='/images/happy.jpg');
-                script.(    )
-                  getLocationConstant()
+        form(method='post')
+            div.control-group
+                label.control-label(for="username") Your  first Name
+                div.controls
+                    input(id='name', type='text', name='username', placeholder='John Doe')
+            div.control-group
+                div.controls
+                    input(id='Latitude', type='hidden', name='Latitude', placeholder='Latitude', value='')
+            div.control-group
+                div.controls
+                    input(id='Longitude', type='hidden', name='Longitude', placeholder='Longitude', value='')
+            div
+                 div.submitbutton
+                     button.happybutton(type='submit', name='rating', value='1')
+            //div.control-group
+            //    div.controls
+            //        button.btn.btn-primary(type='submit', id='rating', name='rating', value='0')
+            //            img(src='/images/happy.jpg')
+            script.(    )
+                getLocationConstant()
