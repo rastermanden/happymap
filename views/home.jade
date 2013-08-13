@@ -4,22 +4,19 @@ block content
   #wrapper
     #display
         form(method='post')
-            div.control-group
-                label.control-label(for="username") Your  first Name
-                div.controls
-                    input(id='name', type='text', name='username', placeholder='John Doe')
-            div.control-group
-                div.controls
-                    input(id='Latitude', type='hidden', name='Latitude', placeholder='Latitude', value='')
-            div.control-group
-                div.controls
-                    input(id='Longitude', type='hidden', name='Longitude', placeholder='Longitude', value='')
-            div
-                 div.submitbutton
-                     button.happybutton(type='submit', name='rating', value='1')
+            div.controls
+                input(id='name', type='text', name='username', placeholder='Your name')
+            div.controls
+                input(id='Latitude', type='hidden', name='Latitude', placeholder='Latitude', value='')
+            div.controls
+                input(id='Longitude', type='hidden', name='Longitude', placeholder='Longitude', value='')
+            div.submitbutton
+                button.happybutton(type='submit', name='rating', value='1')
+            div.submitbutton
+                button.sadbutton(type='submit', name='rating', value='0')
             //div.control-group
             //    div.controls
             //        button.btn.btn-primary(type='submit', id='rating', name='rating', value='0')
-            //            img(src='/images/happy.jpg')
+            //            img(src='/images/happy_smiley.jpg')
             script.(    )
                 getLocationConstant()
