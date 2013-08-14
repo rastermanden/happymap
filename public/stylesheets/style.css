@@ -1,5 +1,5 @@
 body {
-  padding: 50px;
+  padding: 20px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
@@ -11,7 +11,7 @@ a {
 {
   width: 80%;
   margin: 0 auto;
-  padding: 40px 20px;
+  padding: 20px 10px;
   background: #fff;
 }
 
@@ -30,30 +30,37 @@ div.submitbutton{
 height:80%
 }
 
+table{
+  width:60%
+}
+
+td.half{
+  width:50%
+}
+
+
 button.happybutton {
   position:left;
   background-color: transparent;
   background-image: url(/images/happy_smiley.svg);
-  /*background-size: 100px 100px;*/
   background-repeat:no-repeat;
   border: 0;
   padding: 8px 8px;
   color: white;
-  width:15%;
+  width:100%;
   height:100%;
-  min-height:100px;
+  min-height:200px;
 }
 
 button.sadbutton {
   position:right;
   background-color: transparent;
   background-image: url(/images/sad_smiley.svg);
-  /*background-size: 100px 100px;*/
   background-repeat:no-repeat;
   border: 0;
   padding: 8px 8px;
   color: white;
-  width:15%;
+  width:100%;
   height:100%;
-  min-height:100px;
+  min-height:200px;
 }

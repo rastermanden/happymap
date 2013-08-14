@@ -10,10 +10,12 @@ block content
                 input(id='Latitude', type='hidden', name='Latitude', placeholder='Latitude', value='')
             div.controls
                 input(id='Longitude', type='hidden', name='Longitude', placeholder='Longitude', value='')
-            div.submitbutton
-                button.happybutton(type='submit', name='rating', value='1')
-            div.submitbutton
-                button.sadbutton(type='submit', name='rating', value='0')
+            table
+                tr
+                    td.half
+                        button.happybutton(type='submit', name='rating', value='1')
+                    td.half
+                        button.sadbutton(type='submit', name='rating', value='0')
             //div.control-group
             //    div.controls
             //        button.btn.btn-primary(type='submit', id='rating', name='rating', value='0')
